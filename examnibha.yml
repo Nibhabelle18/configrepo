@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: examnibha
+
+server:
+  port: 6010
